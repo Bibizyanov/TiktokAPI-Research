@@ -1,0 +1,3243 @@
+[
+  {
+    "route": "/api-live/event/detail",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api-live/event/list",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api-live/event/related-videos",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api-live/share/live",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api-live/user/room",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/ad/v1/report/",
+    "modules": [
+      "343260"
+    ]
+  },
+  {
+    "route": "/api/ad/v1/report/feedback/",
+    "modules": [
+      "343260"
+    ]
+  },
+  {
+    "route": "/api/at/default/list/",
+    "modules": [
+      "511121",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/aweme/delete",
+    "modules": [
+      "239034"
+    ]
+  },
+  {
+    "route": "/api/aweme/delete/",
+    "modules": [
+      "268522",
+      "647876",
+      "813911"
+    ]
+  },
+  {
+    "route": "/api/aweme/modify/visibility/",
+    "modules": [
+      "268522",
+      "647876",
+      "948978"
+    ]
+  },
+  {
+    "route": "/api/aweme/set/react_duet_stitch/",
+    "modules": [
+      "268522",
+      "647876",
+      "948978"
+    ]
+  },
+  {
+    "route": "/api/ba/business/suite/account/off",
+    "modules": [
+      "338083",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/ba/business/suite/account/quitcheck",
+    "modules": [
+      "338083",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/ba/business/suite/bs/account/info/",
+    "modules": [
+      "264292"
+    ]
+  },
+  {
+    "route": "/api/ba/business/suite/contact/label/mapping",
+    "modules": [
+      "199439",
+      "832833"
+    ]
+  },
+  {
+    "route": "/api/ba/business/suite/permission/list",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/ba/business/suite/permission/list/",
+    "modules": [
+      "264292"
+    ]
+  },
+  {
+    "route": "/api/block/user_list/",
+    "modules": [
+      "143595",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/challenge/detail/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/challenge/item_list/",
+    "modules": [
+      "566039",
+      "647876",
+      "820056"
+    ]
+  },
+  {
+    "route": "/api/challenge/item_list/newtab/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/challenge/related/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/chat/detail/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/clips/item_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/clips/item/detail/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/collection/candidate/item_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/collection/create",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/collection/create/",
+    "modules": [
+      "647876",
+      "948422"
+    ]
+  },
+  {
+    "route": "/api/collection/delete",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/collection/delete/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/collection/detail/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/collection/item_list/",
+    "modules": [
+      "566039",
+      "647876",
+      "919398"
+    ]
+  },
+  {
+    "route": "/api/collection/modify_info",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/collection/modify_info/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/collection/modify_items",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/collection/modify_items/",
+    "modules": [
+      "4251",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/collection/move_items",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/collection/move_items/",
+    "modules": [
+      "647876",
+      "888216"
+    ]
+  },
+  {
+    "route": "/api/comment/delete/",
+    "modules": [
+      "554375",
+      "647876",
+      "786877"
+    ]
+  },
+  {
+    "route": "/api/comment/digg",
+    "modules": [
+      "239034"
+    ]
+  },
+  {
+    "route": "/api/comment/digg/",
+    "modules": [
+      "554375",
+      "647876",
+      "786877"
+    ]
+  },
+  {
+    "route": "/api/comment/list/",
+    "modules": [
+      "554375",
+      "647876",
+      "769259",
+      "786877"
+    ]
+  },
+  {
+    "route": "/api/comment/list/reply/",
+    "modules": [
+      "554375",
+      "647876",
+      "786877"
+    ]
+  },
+  {
+    "route": "/api/comment/publish",
+    "modules": [
+      "239034",
+      "345146",
+      "985732"
+    ]
+  },
+  {
+    "route": "/api/comment/publish/",
+    "modules": [
+      "511121",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/comment/search/sug/user/",
+    "modules": [
+      "511121",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/comment/search/user/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/commit/ads/action/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/commit/follow/request/approve/",
+    "modules": [
+      "47365",
+      "526172",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/commit/follow/request/reject/",
+    "modules": [
+      "526172",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/commit/follow/user",
+    "modules": [
+      "239034",
+      "345146",
+      "985732"
+    ]
+  },
+  {
+    "route": "/api/commit/follow/user/",
+    "modules": [
+      "212756",
+      "331590",
+      "554375",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/commit/item/digg",
+    "modules": [
+      "239034"
+    ]
+  },
+  {
+    "route": "/api/commit/item/digg/",
+    "modules": [
+      "186035",
+      "501784",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/commit/remove/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/compliance/settings/",
+    "modules": [
+      "49366",
+      "143595",
+      "272643",
+      "564749",
+      "632107"
+    ]
+  },
+  {
+    "route": "/api/creator/item_list/",
+    "modules": [
+      "218971",
+      "245824",
+      "258840",
+      "555518",
+      "566039",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/customtdk/item/",
+    "modules": [
+      "134819"
+    ]
+  },
+  {
+    "route": "/api/discover/challenge/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/discover/client_impression/",
+    "modules": [
+      "833636"
+    ]
+  },
+  {
+    "route": "/api/discover/expansion/topic/",
+    "modules": [
+      "985732"
+    ]
+  },
+  {
+    "route": "/api/discover/music/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/discover/user/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/dislike/item",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/dislike/item/",
+    "modules": [
+      "186035",
+      "501784",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/drama/collect/",
+    "modules": [
+      "411160",
+      "647876",
+      "805071"
+    ]
+  },
+  {
+    "route": "/api/drama/detail/",
+    "modules": [
+      "588382",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/drama/episode/item_list",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/drama/episode/item_list/",
+    "modules": [
+      "588382",
+      "655650"
+    ]
+  },
+  {
+    "route": "/api/drama/favorite/drama_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/drama/filter/category_list/",
+    "modules": [
+      "655650"
+    ]
+  },
+  {
+    "route": "/api/drama/recommend/drama_list/",
+    "modules": [
+      "588382",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/drama/theme_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/drama/theme/drama_list/",
+    "modules": [
+      "647876",
+      "655650"
+    ]
+  },
+  {
+    "route": "/api/drama/user/drama_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/drama/watch_history/",
+    "modules": [
+      "655650"
+    ]
+  },
+  {
+    "route": "/api/explore/category_list/",
+    "modules": [
+      "643928",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/explore/item_list/",
+    "modules": [
+      "566039",
+      "647876",
+      "655650",
+      "993135"
+    ]
+  },
+  {
+    "route": "/api/favorite/item_list/",
+    "modules": [
+      "566039",
+      "647876",
+      "871966"
+    ]
+  },
+  {
+    "route": "/api/feedback/v1/newest_reply/",
+    "modules": [
+      "161117"
+    ]
+  },
+  {
+    "route": "/api/follow",
+    "modules": [
+      "239034",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/follow/",
+    "modules": [
+      "212756",
+      "331590",
+      "554375"
+    ]
+  },
+  {
+    "route": "/api/following/item_list/",
+    "modules": [
+      "566039",
+      "647876",
+      "655650"
+    ]
+  },
+  {
+    "route": "/api/friends/item_list/",
+    "modules": [
+      "566039",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/fyp/interest/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/im_setting/update/v1",
+    "modules": [
+      "272643",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/im/chat/notice",
+    "modules": [
+      "556804"
+    ]
+  },
+  {
+    "route": "/api/im/chat/notice/",
+    "modules": [
+      "199439"
+    ]
+  },
+  {
+    "route": "/api/im/item_detail",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/im/item_detail/",
+    "modules": [
+      "362528",
+      "636372",
+      "647876",
+      "701707"
+    ]
+  },
+  {
+    "route": "/api/im/multi_user/",
+    "modules": [
+      "362528",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/im/reboot/misc/",
+    "modules": [
+      "362528"
+    ]
+  },
+  {
+    "route": "/api/im/spotlight/multi_relation/",
+    "modules": [
+      "362528"
+    ]
+  },
+  {
+    "route": "/api/im/spotlight/relation",
+    "modules": [
+      "287223"
+    ]
+  },
+  {
+    "route": "/api/im/spotlight/relation/",
+    "modules": [
+      "362528",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/im/stranger/unlimit",
+    "modules": [
+      "556804"
+    ]
+  },
+  {
+    "route": "/api/im/stranger/unlimit/",
+    "modules": [
+      "199439",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/img",
+    "modules": [
+      "543880"
+    ]
+  },
+  {
+    "route": "/api/impression/write/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/inbox/notice_count/",
+    "modules": [
+      "130045",
+      "175273",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/inbox/notice_list/",
+    "modules": [
+      "526172",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/item/availability/",
+    "modules": [
+      "186035",
+      "566039",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/item/collect",
+    "modules": [
+      "239034",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/item/collect/",
+    "modules": [
+      "186035",
+      "501784"
+    ]
+  },
+  {
+    "route": "/api/item/detail/",
+    "modules": [
+      "594091",
+      "631803",
+      "647876",
+      "655650"
+    ]
+  },
+  {
+    "route": "/api/live/detail/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/mention/recent/contact/list/v1/",
+    "modules": [
+      "511121",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/mix/detail",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/mix/detail/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/mix/item_list",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/mix/item_list/",
+    "modules": [
+      "533742",
+      "566039",
+      "647876",
+      "688870"
+    ]
+  },
+  {
+    "route": "/api/music/detail/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/music/item_list/",
+    "modules": [
+      "212852",
+      "647876",
+      "655650"
+    ]
+  },
+  {
+    "route": "/api/music/item_list/newtab/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/notice/count/",
+    "modules": [
+      "130045",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/notice/digg/list/",
+    "modules": [
+      "526172",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/notice/multi/",
+    "modules": [
+      "526172",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/playlist/create_with_items/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/playlist/delete/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/playlist/modify_items/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/playlist/modify_order/",
+    "modules": [
+      "463702",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/playlist/name_check",
+    "modules": [
+      "230292",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/playlist/update/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/poi/detail/",
+    "modules": [
+      "88377",
+      "647876",
+      "985732"
+    ]
+  },
+  {
+    "route": "/api/poi/item_list/",
+    "modules": [
+      "566039",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/policy/notice/",
+    "modules": [
+      "26622"
+    ]
+  },
+  {
+    "route": "/api/policy/notice/approve/",
+    "modules": [
+      "26622",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/post/item_list/",
+    "modules": [
+      "171751",
+      "566039",
+      "647876",
+      "655650",
+      "985732"
+    ]
+  },
+  {
+    "route": "/api/post/item_list/v1/",
+    "modules": [
+      "566039",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/prefetch/explore/item_list/",
+    "modules": [
+      "552014",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/prefetch/recommend/item_list/",
+    "modules": [
+      "595606",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/preload/item_list/",
+    "modules": [
+      "566039",
+      "595606",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/privacy/agreement/record/agree/v1",
+    "modules": [
+      "380347",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/privacy/item/restriction/v1",
+    "modules": [
+      "268522",
+      "948978"
+    ]
+  },
+  {
+    "route": "/api/privacy/item/settings/update/v1",
+    "modules": [
+      "268522",
+      "948978"
+    ]
+  },
+  {
+    "route": "/api/privacy/setting/restriction/v1",
+    "modules": [
+      "272643",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/privacy/setting/restriction/v1/",
+    "modules": [
+      "124184",
+      "143595"
+    ]
+  },
+  {
+    "route": "/api/privacy/unified_config/v1",
+    "modules": [
+      "124184"
+    ]
+  },
+  {
+    "route": "/api/privacy/user/effected_count/v1",
+    "modules": [
+      "124184",
+      "143595"
+    ]
+  },
+  {
+    "route": "/api/privacy/user/private_account_prompt/v1",
+    "modules": [
+      "380347"
+    ]
+  },
+  {
+    "route": "/api/privacy/user/private_account/update/v1",
+    "modules": [
+      "143595",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/privacy/user/settings/update/v1",
+    "modules": [
+      "124184",
+      "272643",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/private_banner/ack/",
+    "modules": [
+      "49366",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/question/detail/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/question/item_list/",
+    "modules": [
+      "566039",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/recommend/embed_videos/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/recommend/item_list/",
+    "modules": [
+      "566039",
+      "595606",
+      "647876",
+      "655650"
+    ]
+  },
+  {
+    "route": "/api/recommend/user/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/record/impression/action/",
+    "modules": [
+      "595606",
+      "647876",
+      "993135"
+    ]
+  },
+  {
+    "route": "/api/reddot/report",
+    "modules": [
+      "369321",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/reflow/challenge/detail/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/reflow/challenge/item_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/reflow/item/detail/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/reflow/music/detail/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/reflow/music/item_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/reflow/playlist/item_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/reflow/post/item_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/reflow/recommend/item_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/reflow/repost/item_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/reflow/sticker/item_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/reflow/survey/detail/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/reflow/user/detail/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/register/check/login/name/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/related/item_list",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/related/item_list/",
+    "modules": [
+      "79924",
+      "488365",
+      "554375",
+      "567638",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/repost/item_list",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/repost/item_list/",
+    "modules": [
+      "647876",
+      "878642"
+    ]
+  },
+  {
+    "route": "/api/schedule/aweme/delete/",
+    "modules": [
+      "268522",
+      "647876",
+      "813911"
+    ]
+  },
+  {
+    "route": "/api/search/general/full/",
+    "modules": [
+      "412622",
+      "647876",
+      "648618"
+    ]
+  },
+  {
+    "route": "/api/search/general/preview/",
+    "modules": [
+      "365843"
+    ]
+  },
+  {
+    "route": "/api/search/general/sug/",
+    "modules": [
+      "365843"
+    ]
+  },
+  {
+    "route": "/api/search/item/full/",
+    "modules": [
+      "412622",
+      "647876",
+      "648618"
+    ]
+  },
+  {
+    "route": "/api/search/live/full/",
+    "modules": [
+      "412622",
+      "648618"
+    ]
+  },
+  {
+    "route": "/api/search/photo/full/",
+    "modules": [
+      "412622",
+      "647876",
+      "648618"
+    ]
+  },
+  {
+    "route": "/api/search/suggest/guide/",
+    "modules": [
+      "207923",
+      "548036"
+    ]
+  },
+  {
+    "route": "/api/search/user/full/",
+    "modules": [
+      "412622",
+      "647876",
+      "648618"
+    ]
+  },
+  {
+    "route": "/api/search/user/preview/",
+    "modules": [
+      "365843",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/seo/augmented_tdk/",
+    "modules": [
+      "292371"
+    ]
+  },
+  {
+    "route": "/api/seo/kap/product_list/",
+    "modules": [
+      "647876",
+      "985732"
+    ]
+  },
+  {
+    "route": "/api/seo/kap/related_keywords/",
+    "modules": [
+      "985732"
+    ]
+  },
+  {
+    "route": "/api/seo/keyword/item_tags/",
+    "modules": [
+      "317087"
+    ]
+  },
+  {
+    "route": "/api/seo/poi/item_list/",
+    "modules": [
+      "985732"
+    ]
+  },
+  {
+    "route": "/api/seo/redirection/",
+    "modules": [
+      "968843"
+    ]
+  },
+  {
+    "route": "/api/seo/translate/comment/",
+    "modules": [
+      "816246"
+    ]
+  },
+  {
+    "route": "/api/seo/translate/item_info/",
+    "modules": [
+      "816246"
+    ]
+  },
+  {
+    "route": "/api/share/settings/",
+    "modules": [
+      "305737"
+    ]
+  },
+  {
+    "route": "/api/sharer/info/",
+    "modules": [
+      "218971",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/spf/prompt/",
+    "modules": [
+      "647876",
+      "969941"
+    ]
+  },
+  {
+    "route": "/api/sticker/detail/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/sticker/item_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/story/batch/item_list/",
+    "modules": [
+      "647876",
+      "752535"
+    ]
+  },
+  {
+    "route": "/api/story/item_list/",
+    "modules": [
+      "647876",
+      "752535"
+    ]
+  },
+  {
+    "route": "/api/story/user_list/",
+    "modules": [
+      "647876",
+      "752535"
+    ]
+  },
+  {
+    "route": "/api/story/user/story_list/",
+    "modules": [
+      "647876",
+      "752535"
+    ]
+  },
+  {
+    "route": "/api/story/viewer_list/",
+    "modules": [
+      "647876",
+      "752535"
+    ]
+  },
+  {
+    "route": "/api/topic/item_list/",
+    "modules": [
+      "566039",
+      "647876",
+      "655650"
+    ]
+  },
+  {
+    "route": "/api/trending/searchwords/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/trending/topics/info",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/uniqueid/check/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/update/profile",
+    "modules": [
+      "239034"
+    ]
+  },
+  {
+    "route": "/api/update/profile/",
+    "modules": [
+      "345146",
+      "647876",
+      "985732"
+    ]
+  },
+  {
+    "route": "/api/upload/image/",
+    "modules": [
+      "343260",
+      "648618"
+    ]
+  },
+  {
+    "route": "/api/user/answer_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/user/block/",
+    "modules": [
+      "212756",
+      "331590",
+      "554375"
+    ]
+  },
+  {
+    "route": "/api/user/collect/item_list",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/user/collect/item_list/",
+    "modules": [
+      "229458",
+      "566039",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/user/collect/music_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/user/collection_list/",
+    "modules": [
+      "647876",
+      "888216"
+    ]
+  },
+  {
+    "route": "/api/user/contact/list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/user/detail/",
+    "modules": [
+      "212756",
+      "331590",
+      "554375",
+      "647876",
+      "655650"
+    ]
+  },
+  {
+    "route": "/api/user/detail/self/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/user/following/request/list/",
+    "modules": [
+      "526172",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/user/get/animation/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/user/list/",
+    "modules": [
+      "647096",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/user/music_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/user/playlist/",
+    "modules": [
+      "463702",
+      "647876",
+      "985732"
+    ]
+  },
+  {
+    "route": "/api/user/question_list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/user/set/animation/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/user/set/settings/",
+    "modules": [
+      "268522",
+      "647876",
+      "751576",
+      "948978"
+    ]
+  },
+  {
+    "route": "/api/user/settings/",
+    "modules": [
+      "272643",
+      "522091",
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/user/settings/update",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/user/settings/update/",
+    "modules": [
+      "243082"
+    ]
+  },
+  {
+    "route": "/api/v1/item/create/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/v1/item/create/bulk",
+    "modules": [
+      "239034"
+    ]
+  },
+  {
+    "route": "/api/v1/post_schedule/ack/",
+    "modules": [
+      "369321"
+    ]
+  },
+  {
+    "route": "/api/v1/web/project/list/",
+    "modules": [
+      "539357"
+    ]
+  },
+  {
+    "route": "/api/v1/web/project/post",
+    "modules": [
+      "239034"
+    ]
+  },
+  {
+    "route": "/api/v3/register/user/info/sync/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/api/v3/register/verification/age",
+    "modules": [
+      "623496"
+    ]
+  },
+  {
+    "route": "/api/v3/register/verification/age/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/aweme/v1/adult/verify/get/accepted/id/types/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/aweme/v1/aweme/feedback/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/aweme/v1/comment/digg",
+    "modules": [
+      "239034"
+    ]
+  },
+  {
+    "route": "/aweme/v1/guardian/platform/parent/info/",
+    "modules": [
+      "551116"
+    ]
+  },
+  {
+    "route": "/aweme/v1/im/msg/feedback/",
+    "modules": [
+      "362528",
+      "636372",
+      "701707"
+    ]
+  },
+  {
+    "route": "/aweme/v1/minor/user/set/settings/",
+    "modules": [
+      "551116"
+    ]
+  },
+  {
+    "route": "/aweme/v1/music/list/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/aweme/v1/pers/ad/topics/",
+    "modules": [
+      "3094"
+    ]
+  },
+  {
+    "route": "/aweme/v1/report/inbox/notice",
+    "modules": [
+      "175273",
+      "275360"
+    ]
+  },
+  {
+    "route": "/aweme/v1/translation/description/",
+    "modules": [
+      "243082"
+    ]
+  },
+  {
+    "route": "/aweme/v1/translation/title/",
+    "modules": [
+      "243082"
+    ]
+  },
+  {
+    "route": "/aweme/v1/upload/image2/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/aweme/v1/user/block/",
+    "modules": [
+      "892978"
+    ]
+  },
+  {
+    "route": "/aweme/v1/web/comment/publish",
+    "modules": [
+      "733735"
+    ]
+  },
+  {
+    "route": "/aweme/v1/web/commit/follow/user",
+    "modules": [
+      "733735"
+    ]
+  },
+  {
+    "route": "/aweme/v1/web/commit/item/digg",
+    "modules": [
+      "733735"
+    ]
+  },
+  {
+    "route": "/aweme/v2/aweme/feedback/",
+    "modules": [
+      "76774",
+      "199439",
+      "370032",
+      "556804",
+      "647876"
+    ]
+  },
+  {
+    "route": "/aweme/v2/guardian/platform/verify/password/",
+    "modules": [
+      "551116",
+      "724997"
+    ]
+  },
+  {
+    "route": "/node-a/send/download_link",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/node-a/video/playsv",
+    "modules": [
+      "714930"
+    ]
+  },
+  {
+    "route": "/node-webapp/api/biz-context",
+    "modules": [
+      "19951",
+      "635623"
+    ]
+  },
+  {
+    "route": "/node-webapp/api/common-app-context",
+    "modules": [
+      "190193"
+    ]
+  },
+  {
+    "route": "/node-webapp/api/importmap",
+    "modules": [
+      "137658"
+    ]
+  },
+  {
+    "route": "/node-webapp/api/inference",
+    "modules": [
+      "60514"
+    ]
+  },
+  {
+    "route": "/node-webapp/page/error",
+    "modules": [
+      "655650"
+    ]
+  },
+  {
+    "route": "/node/feedback/upload_image/",
+    "modules": [
+      "76774",
+      "161117"
+    ]
+  },
+  {
+    "route": "/node/report/inbox/detail",
+    "modules": [
+      "275360"
+    ]
+  },
+  {
+    "route": "/node/report/inbox/detail/",
+    "modules": [
+      "655650"
+    ]
+  },
+  {
+    "route": "/node/report/inbox/list",
+    "modules": [
+      "275360"
+    ]
+  },
+  {
+    "route": "/node/report/inbox/list/",
+    "modules": [
+      "655650"
+    ]
+  },
+  {
+    "route": "/node/report/reasons",
+    "modules": [
+      "76774",
+      "199439",
+      "556804",
+      "647876"
+    ]
+  },
+  {
+    "route": "/node/share/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/node/share/discover",
+    "modules": [
+      "647096"
+    ]
+  },
+  {
+    "route": "/node/share/discover/list",
+    "modules": [
+      "924347"
+    ]
+  },
+  {
+    "route": "/passport/aaas/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/passport/account/info/v2/",
+    "modules": [
+      "522091"
+    ]
+  },
+  {
+    "route": "/passport/token/beat/aff/web/",
+    "modules": [
+      "201907"
+    ]
+  },
+  {
+    "route": "/passport/token/beat/web",
+    "modules": [
+      "490262"
+    ]
+  },
+  {
+    "route": "/passport/token/beat/web/",
+    "modules": [
+      "201907",
+      "239034"
+    ]
+  },
+  {
+    "route": "/passport/web/",
+    "modules": [
+      "239034",
+      "647876"
+    ]
+  },
+  {
+    "route": "/passport/web/account/info/",
+    "modules": [
+      "647876",
+      "979206"
+    ]
+  },
+  {
+    "route": "/passport/web/login_name/update/",
+    "modules": [
+      "239034"
+    ]
+  },
+  {
+    "route": "/passport/web/org/account/permission_check/",
+    "modules": [
+      "522091"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/app_open_times/upload/",
+    "modules": [
+      "551116",
+      "724997"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/community_notes/intake",
+    "modules": [
+      "437544"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/community_notes/intake/check",
+    "modules": [
+      "437544"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/compliance/guadig/settings/",
+    "modules": [
+      "551116",
+      "564749"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/creator/ai_comment/category_detail",
+    "modules": [
+      "554375"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/creator/ai_comment/topic_detail",
+    "modules": [
+      "554375"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/creator/ai_comment/topic_overview",
+    "modules": [
+      "554375"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/csp/3p_adv/list",
+    "modules": [
+      "3094"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/csp/3p_adv/optout",
+    "modules": [
+      "3094"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/csp/ads_compliance_settings",
+    "modules": [
+      "3094"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/csp/adv/list",
+    "modules": [
+      "3094"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/csp/adv/optout",
+    "modules": [
+      "3094"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/csp/clear_activity",
+    "modules": [
+      "3094"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/csp/get_pa",
+    "modules": [
+      "3094"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/csp/pa_prompt",
+    "modules": [
+      "601831"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/csp/set_pa",
+    "modules": [
+      "3094"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/csp/set_pa?mode=",
+    "modules": [
+      "601831"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/csp/set/settings/",
+    "modules": [
+      "3094"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/csp/topics/sensitive",
+    "modules": [
+      "3094"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/csp/ttae/get_pa",
+    "modules": [
+      "3094"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/csp/ttae/set_pa",
+    "modules": [
+      "3094"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/im/user/profile/?",
+    "modules": [
+      "287223"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/kids/app_open_times/upload/",
+    "modules": [
+      "551116"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/kids/commit/item/digg/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/kids/screen_time/list/",
+    "modules": [
+      "551116"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/kids/screen_time/upload/",
+    "modules": [
+      "551116"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/kids/user/check/password/",
+    "modules": [
+      "551116"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/kids/user/set/settings/",
+    "modules": [
+      "551116"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/night_screen_time/popup/",
+    "modules": [
+      "551116"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/night_screen_time/reminder/",
+    "modules": [
+      "551116"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/night_screen_time/settings/",
+    "modules": [
+      "551116"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/paid_content/video_progress",
+    "modules": [
+      "391860",
+      "647876"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/screen_time/action/",
+    "modules": [
+      "724997"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/screen_time/list/",
+    "modules": [
+      "551116",
+      "724997"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/screen_time/popup/complete/",
+    "modules": [
+      "551116",
+      "724997"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/screen_time/popup/show/",
+    "modules": [
+      "551116"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/screen_time/settings/",
+    "modules": [
+      "551116"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/screen_time/upload/",
+    "modules": [
+      "551116",
+      "724997"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/upvote/delete",
+    "modules": [
+      "186035"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/upvote/publish",
+    "modules": [
+      "186035",
+      "239034",
+      "647876"
+    ]
+  },
+  {
+    "route": "/tiktok/v1/username/save_async/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/tiktok/v2/im/official_emoji/sets",
+    "modules": [
+      "229262"
+    ]
+  },
+  {
+    "route": "/v1/conversation/add_participants",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/v1/conversation/dissolve",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/v1/conversation/get_setting_info",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/v1/conversation/set_setting_info",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/v1/conversation/update_participant",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/v1/conversation/upsert_core_ext_info",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/v1/conversation/upsert_settings_ext",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/v1/list",
+    "modules": [
+      "569597",
+      "936786"
+    ]
+  },
+  {
+    "route": "/v1/list_test",
+    "modules": [
+      "569597",
+      "936786"
+    ]
+  },
+  {
+    "route": "/v1/message/batch_unmark",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/v1/message/get_by_conversation_with_range",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "/v1/message/mark",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/v1/message/send",
+    "modules": [
+      "239034",
+      "647876"
+    ]
+  },
+  {
+    "route": "/v1/message/set_property",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/v1/user/webid",
+    "modules": [
+      "569597",
+      "936786"
+    ]
+  },
+  {
+    "route": "/v1/voip/call",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/v2/bytesync/api/pipeline?device_id=",
+    "modules": [
+      "235242"
+    ]
+  },
+  {
+    "route": "/v2/conversation/create",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/api/compliance/kyc/v1/submission",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/api/money/kyc/v1/info/detail",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/api/money/kyc/v1/upload_file",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/data/data_center/room_stats/",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/feed/",
+    "modules": [
+      "239034",
+      "345146",
+      "366685",
+      "681691",
+      "813873",
+      "911831",
+      "935777"
+    ]
+  },
+  {
+    "route": "/webcast/game_revenue/activity/dispatchv2",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/game/entity/",
+    "modules": [
+      "848950"
+    ]
+  },
+  {
+    "route": "/webcast/game/live_permission/judge_activity_permission/",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/gift/send",
+    "modules": [
+      "239034"
+    ]
+  },
+  {
+    "route": "/webcast/gift/send/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/linkmic_multi_guest/list_by_type/",
+    "modules": [
+      "335848"
+    ]
+  },
+  {
+    "route": "/webcast/linkmic_multi_guest/webapp/audience_room_enter_backup/",
+    "modules": [
+      "341470"
+    ]
+  },
+  {
+    "route": "/webcast/resource/upload/",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/review/get_latest_ban_record/",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/room/chat",
+    "modules": [
+      "239034"
+    ]
+  },
+  {
+    "route": "/webcast/room/chat/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/room/check_alive/",
+    "modules": [
+      "337703",
+      "681691"
+    ]
+  },
+  {
+    "route": "/webcast/room/create_info/",
+    "modules": [
+      "321058",
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/room/create/",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/room/emote_chat/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/room/enter/",
+    "modules": [
+      "345146",
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/room/finish_abnormal/",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/room/hashtag/set/",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/room/leave/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/room/like/",
+    "modules": [
+      "1879"
+    ]
+  },
+  {
+    "route": "/webcast/room/live_permission/apply_info/",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/room/live_permission/apply/",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/room/live_podcast/",
+    "modules": [
+      "321058",
+      "647876",
+      "924347"
+    ]
+  },
+  {
+    "route": "/webcast/room/ping/audience/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/room/preload_room/",
+    "modules": [
+      "206921",
+      "681691"
+    ]
+  },
+  {
+    "route": "/webcast/room/push_fetch/",
+    "modules": [
+      "526172"
+    ]
+  },
+  {
+    "route": "/webcast/room/screenshot_cover/update/",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/room/search/",
+    "modules": [
+      "475705"
+    ]
+  },
+  {
+    "route": "/webcast/room/search/suggest/",
+    "modules": [
+      "848950"
+    ]
+  },
+  {
+    "route": "/webcast/room/share",
+    "modules": [
+      "239034"
+    ]
+  },
+  {
+    "route": "/webcast/room/share/",
+    "modules": [
+      "1879",
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/room/upload/image/",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/sub/anchor/subscriber/",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/sub/contract/create",
+    "modules": [
+      "239034"
+    ]
+  },
+  {
+    "route": "/webcast/sub/privilege/get_sub_badge_detail",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/sub/privilege/get_sub_emote_detail/",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/sub/privilege/get_sub_info",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/sub/privilege/get_sub_privilege_detail",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/sub/privilege/update_badge",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/sub/privilege/update_emote",
+    "modules": [
+      "321058"
+    ]
+  },
+  {
+    "route": "/webcast/sub/user/info/",
+    "modules": [
+      "911831"
+    ]
+  },
+  {
+    "route": "/webcast/user/",
+    "modules": [
+      "701707"
+    ]
+  },
+  {
+    "route": "/webcast/user/relation/update",
+    "modules": [
+      "239034"
+    ]
+  },
+  {
+    "route": "/webcast/user/relation/update/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/v1/aweme/feedback/",
+    "modules": [
+      "76774",
+      "370032"
+    ]
+  },
+  {
+    "route": "/webcast/v3/feedback/reasons/",
+    "modules": [
+      "76774"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/campaign/update_displayed_tasks",
+    "modules": [
+      "620274"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/income_plus/account_steps/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/income_plus/agreement/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/income_plus/get_user_region_info/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/income_plus/tax/create_tax/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/income_plus/tax/get_tax/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/income_plus/tax/update_tax/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/income_plus/user/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/notifycenter/notices/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/payment_instrument_bind_url/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/payment/initialize_agreement",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/payment/initialize_payment",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/payment/payment_methods",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/payment/payment_methods/delete",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/payment/payment_methods/link",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/payment/payment_methods/primary/set",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/payout_onboarding_confirm/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/periodic_payout_onboarding/",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api_tiktok/recharge/check_external_entry",
+    "modules": [
+      "620274"
+    ]
+  },
+  {
+    "route": "/webcast/wallet_api/fs/diamond_buy/permission_v2",
+    "modules": [
+      "864844"
+    ]
+  },
+  {
+    "route": "api/preload/item_list",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "api/search/general/preview",
+    "modules": [
+      "647876"
+    ]
+  },
+  {
+    "route": "aweme/detail",
+    "modules": [
+      "247397"
+    ]
+  },
+  {
+    "route": "image/",
+    "modules": [
+      "136369",
+      "603452",
+      "648618",
+      "880677"
+    ]
+  },
+  {
+    "route": "image/bmp",
+    "modules": [
+      "762663"
+    ]
+  },
+  {
+    "route": "image/jpeg",
+    "modules": [
+      "136369",
+      "346068",
+      "611129",
+      "648618",
+      "762663",
+      "774594",
+      "784188",
+      "866278"
+    ]
+  },
+  {
+    "route": "image/jpg",
+    "modules": [
+      "136369",
+      "346068",
+      "648618",
+      "762663",
+      "774594"
+    ]
+  },
+  {
+    "route": "image/png",
+    "modules": [
+      "136369",
+      "346068",
+      "611129",
+      "648618",
+      "762663",
+      "774594",
+      "866278"
+    ]
+  },
+  {
+    "route": "image/webp",
+    "modules": [
+      "229262",
+      "648618",
+      "866278"
+    ]
+  },
+  {
+    "route": "image/x-icon",
+    "modules": [
+      "987473"
+    ]
+  },
+  {
+    "route": "images/",
+    "modules": [
+      "110010"
+    ]
+  },
+  {
+    "route": "passport/token/beat/web",
+    "modules": [
+      "583623"
+    ]
+  },
+  {
+    "route": "tiktok/v1/im/upload_config",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/account/offline",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/account/online",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/blocklist/check",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/blocklist/get",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/blocklist/set",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/broadcast/recv_message",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/broadcast/send_message",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/broadcast/user_counter",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/channel/heartbeat",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/client/batch_ack",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/client/get_unread_count",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/client/input_status",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/client/report_metrics",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/client/unread_count",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/client/user_action",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/config/get",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/add_participants",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/batch_get_conversation_participants_readindex",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/block_conversation",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/block_member",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/delete",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/dissolve",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/get_audit",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/get_checkinfo",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/get_core_info",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/get_group_list",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/get_list",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/get_ticket",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/leave",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/list",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/mget_participants",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/participants_list",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/remove_participants",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/set_core_info",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/set_setting_info",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/update_audit",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/update_participant",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/upsert_core_ext_info",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/conversation/upsert_settings_ext",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/media/get_status",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/media/get_urls",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/media/upload_config",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/ack",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/batch_unmark",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/delete",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/get",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/get_by_conversation",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/get_by_id",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/get_by_user",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/get_by_user_combo",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/get_checkinfo",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/get_mark_count",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/get_message_by_init",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/mark",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/modify_ext",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/pull_mark",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/recall",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/report_mark_count",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/send",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/set_property",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/message/v1/message/get_by_conversation_search",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/profile/get_info",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/send_message/p2p",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/stranger/delete_all_conversations",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/stranger/delete_conversation",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/stranger/delete_message",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/stranger/get_conversation_list",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/stranger/get_messages",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/stranger/mark_read_all_conversations",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/stranger/mark_read_conversation",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/voip/call",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/voip/create",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v1/voip/update",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v2/conversation/create",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v2/conversation/get_by_favorite",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v2/conversation/get_by_top",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v2/conversation/get_info",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v2/conversation/get_info_list",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v2/message/get_by_user_init",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v3/conversation/get_min_index",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v3/conversation/get_read_index",
+    "modules": [
+      "700911"
+    ]
+  },
+  {
+    "route": "v3/conversation/mark_read",
+    "modules": [
+      "700911"
+    ]
+  }
+]
