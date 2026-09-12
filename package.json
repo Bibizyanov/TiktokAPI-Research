@@ -1,0 +1,16 @@
+{
+  "name": "tiktok-web-im-research",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reverse-engineered TikTok Web IM command, route, protobuf and enum registry snapshot.",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "build": "tsc",
+    "docs:api": "node scripts/export-api-index.mjs",
+    "check:secrets": "node scripts/check-secrets.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
